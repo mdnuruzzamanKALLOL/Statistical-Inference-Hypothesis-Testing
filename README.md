@@ -62,7 +62,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 15 | [Survival Analysis Basics](15_Survival_Analysis_Basics/) | Time-to-event data, Kaplan-Meier curves, and the Cox model | ✅ |
 | 16 | [Maximum Likelihood Estimation](16_Maximum_Likelihood_Estimation/) | The optimization principle behind most parametric estimators | ✅ |
 | 17 | [Goodness-of-Fit & Normality Tests](17_Goodness_of_Fit_Normality_Tests/) | Shapiro-Wilk, Kolmogorov-Smirnov, and Q-Q plots | ✅ |
-| 18 | [ANCOVA & MANOVA](18_ANCOVA_MANOVA/) | Extending ANOVA with covariates and multiple outcomes | 🚧 |
+| 18 | [ANCOVA & MANOVA](18_ANCOVA_MANOVA/) | Extending ANOVA with covariates and multiple outcomes | ✅ |
 | 19 | [Regression Inference & Diagnostics](19_Regression_Inference_Diagnostics/) | F-tests, coefficient significance, and residual diagnostics | 🚧 |
 | 20 | [Causal Inference Basics](20_Causal_Inference_Basics/) | Confounding, causal graphs, and propensity score matching | 🚧 |
 
