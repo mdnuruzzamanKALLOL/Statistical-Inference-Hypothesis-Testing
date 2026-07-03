@@ -58,7 +58,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 11 | [Multiple Testing Correction](11_Multiple_Testing_Correction/) | Controlling false positives when running many hypothesis tests | ✅ |
 | 12 | [Bootstrap & Permutation Tests](12_Bootstrap_Permutation_Tests/) | Resampling-based inference without distributional assumptions | ✅ |
 | 13 | [Bayesian Inference Basics](13_Bayesian_Inference_Basics/) | Priors, posteriors, and credible intervals | ✅ |
-| 14 | [Categorical Data Analysis](14_Categorical_Data_Analysis/) | Contingency tables, odds ratios, and Fisher's Exact Test | 🚧 |
+| 14 | [Categorical Data Analysis](14_Categorical_Data_Analysis/) | Contingency tables, odds ratios, and Fisher's Exact Test | ✅ |
 | 15 | [Survival Analysis Basics](15_Survival_Analysis_Basics/) | Time-to-event data, Kaplan-Meier curves, and the Cox model | 🚧 |
 | 16 | [Maximum Likelihood Estimation](16_Maximum_Likelihood_Estimation/) | The optimization principle behind most parametric estimators | 🚧 |
 | 17 | [Goodness-of-Fit & Normality Tests](17_Goodness_of_Fit_Normality_Tests/) | Shapiro-Wilk, Kolmogorov-Smirnov, and Q-Q plots | 🚧 |
