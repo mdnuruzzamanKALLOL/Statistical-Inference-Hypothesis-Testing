@@ -52,7 +52,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 05 | [Chi-Square Tests](05_Chi_Square_Tests/) | Testing goodness of fit and independence for categorical data | ✅ |
 | 06 | [ANOVA (One-way & Two-way)](06_ANOVA_One_way_Two_way/) | Comparing means across three or more groups | ✅ |
 | 07 | [Non-Parametric Tests](07_Non_Parametric_Tests/) | Distribution-free alternatives to t-tests and ANOVA | ✅ |
-| 08 | [Correlation Analysis](08_Correlation_Analysis/) | Measuring linear and monotonic relationships between variables | 🚧 |
+| 08 | [Correlation Analysis](08_Correlation_Analysis/) | Measuring linear and monotonic relationships between variables | ✅ |
 | 09 | [Power Analysis & Sample Size Determination](09_Power_Analysis_Sample_Size_Determination/) | How many samples are enough to detect a real effect | 🚧 |
 | 10 | [A/B Testing & Experimental Design](10_AB_Testing_Experimental_Design/) | Designing and analyzing controlled experiments | 🚧 |
 | 11 | [Multiple Testing Correction](11_Multiple_Testing_Correction/) | Controlling false positives when running many hypothesis tests | 🚧 |
