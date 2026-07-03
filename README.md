@@ -50,7 +50,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 03 | [Confidence Intervals](03_Confidence_Intervals/) | Quantifying uncertainty around a point estimate | ✅ |
 | 04 | [One-Sample & Two-Sample t-Tests](04_One_Sample_Two_Sample_t_Tests/) | Testing whether a sample mean differs from a hypothesis, or two groups differ | ✅ |
 | 05 | [Chi-Square Tests](05_Chi_Square_Tests/) | Testing goodness of fit and independence for categorical data | ✅ |
-| 06 | [ANOVA (One-way & Two-way)](06_ANOVA_One_way_Two_way/) | Comparing means across three or more groups | 🚧 |
+| 06 | [ANOVA (One-way & Two-way)](06_ANOVA_One_way_Two_way/) | Comparing means across three or more groups | ✅ |
 | 07 | [Non-Parametric Tests](07_Non_Parametric_Tests/) | Distribution-free alternatives to t-tests and ANOVA | 🚧 |
 | 08 | [Correlation Analysis](08_Correlation_Analysis/) | Measuring linear and monotonic relationships between variables | 🚧 |
 | 09 | [Power Analysis & Sample Size Determination](09_Power_Analysis_Sample_Size_Determination/) | How many samples are enough to detect a real effect | 🚧 |
