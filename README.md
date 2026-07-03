@@ -48,7 +48,7 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 01 | [Probability Distributions & Sampling Theory](01_Probability_Distributions_Sampling_Theory/) | Normal, Binomial, Poisson distributions and the sampling distributions built from them | ✅ |
 | 02 | [Central Limit Theorem & Point Estimation](02_Central_Limit_Theorem_Point_Estimation/) | Why sample means become normal, and how to estimate population parameters | ✅ |
 | 03 | [Confidence Intervals](03_Confidence_Intervals/) | Quantifying uncertainty around a point estimate | ✅ |
-| 04 | [One-Sample & Two-Sample t-Tests](04_One_Sample_Two_Sample_t_Tests/) | Testing whether a sample mean differs from a hypothesis, or two groups differ | 🚧 |
+| 04 | [One-Sample & Two-Sample t-Tests](04_One_Sample_Two_Sample_t_Tests/) | Testing whether a sample mean differs from a hypothesis, or two groups differ | ✅ |
 | 05 | [Chi-Square Tests](05_Chi_Square_Tests/) | Testing goodness of fit and independence for categorical data | 🚧 |
 | 06 | [ANOVA (One-way & Two-way)](06_ANOVA_One_way_Two_way/) | Comparing means across three or more groups | 🚧 |
 | 07 | [Non-Parametric Tests](07_Non_Parametric_Tests/) | Distribution-free alternatives to t-tests and ANOVA | 🚧 |
