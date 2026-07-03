@@ -64,9 +64,9 @@ Each topic explicitly says what it's setting up for — read the "Why This Topic
 | 17 | [Goodness-of-Fit & Normality Tests](17_Goodness_of_Fit_Normality_Tests/) | Shapiro-Wilk, Kolmogorov-Smirnov, and Q-Q plots | ✅ |
 | 18 | [ANCOVA & MANOVA](18_ANCOVA_MANOVA/) | Extending ANOVA with covariates and multiple outcomes | ✅ |
 | 19 | [Regression Inference & Diagnostics](19_Regression_Inference_Diagnostics/) | F-tests, coefficient significance, and residual diagnostics | ✅ |
-| 20 | [Causal Inference Basics](20_Causal_Inference_Basics/) | Confounding, causal graphs, and propensity score matching | 🚧 |
+| 20 | [Causal Inference Basics](20_Causal_Inference_Basics/) | Confounding, causal graphs, and propensity score matching | ✅ |
 
-**20 topics planned** — built one at a time, each with a deep-dive `README.md` (full math derivation in LaTeX, pitfalls, self-test exercises) and a fully-executed Jupyter notebook (30+ code cells), following the exact standard established in [Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation) and [Classical ML](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML).
+**20/20 topics complete** — each with a deep-dive `README.md` (full math derivation in LaTeX, pitfalls, self-test exercises) and a fully-executed Jupyter notebook (30+ code cells), following the exact standard established in [Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation) and [Classical ML](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML).
 
 ## 📁 Repository Structure
 
@@ -149,7 +149,7 @@ Real-data topics draw from the central **[Datasets](https://github.com/mdnuruzza
 |---|---|---|
 | [Foundation](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation) | Python/NumPy/Pandas, Visualization, Preprocessing, Feature Engineering, Math | ✅ Complete |
 | [Classical ML](https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML) | Regression, Classification, Ensembles, Unsupervised, Model Evaluation & Tuning (29 algorithms) | ✅ Complete |
-| [Statistical Inference & Hypothesis Testing](https://github.com/mdnuruzzamanKALLOL/Statistical-Inference-Hypothesis-Testing) | Probability through causal inference (20 topics) | 🚧 In progress |
+| [Statistical Inference & Hypothesis Testing](https://github.com/mdnuruzzamanKALLOL/Statistical-Inference-Hypothesis-Testing) | Probability through causal inference (20 topics) | ✅ Complete |
 | [Time Series Analysis](https://github.com/mdnuruzzamanKALLOL/Time-Series-Analysis) | Decomposition through neural forecasting (20 topics) | 🚧 In progress |
 | [Deep Learning Foundations](https://github.com/mdnuruzzamanKALLOL/Deep-Learning-Foundations) | Perceptron through GANs and interpretability (20 topics) | 🚧 In progress |
 | [Datasets](https://github.com/mdnuruzzamanKALLOL/Datasets) | 418 datasets (162 cataloged + personal collection) backing the whole series | ✅ Complete |
